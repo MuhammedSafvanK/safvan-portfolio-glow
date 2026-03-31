@@ -11,7 +11,7 @@ const projects = [
       "Uses PostgreSQL and SQLAlchemy for data persistence",
     ],
     tech: ["Python", "Flask", "SQLAlchemy", "PostgreSQL", "HTML", "Bootstrap"],
-    github: "#",
+    github: "https://github.com/MuhammedSafvanK/Inventory-Management-System",
   },
   {
     title: "Food Ordering System",
@@ -22,7 +22,7 @@ const projects = [
       "Modular layered architecture for scalability",
     ],
     tech: ["C++", "DSA"],
-    github: "#",
+    github: "https://github.com/MuhammedSafvanK/FoodOrderingSystem",
   },
 ];
 

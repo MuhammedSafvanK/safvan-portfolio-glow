@@ -10,6 +10,9 @@ const certificates = [
   { title: "Hardware and OS", issuer: "Coursera", file: "/certificates/hardware-and-os.pdf" },
   { title: "Lean Management", issuer: "Simplilearn", file: "/certificates/lean-management.pdf" },
   { title: "Hackathon Certificate", issuer: "LPU", file: "/certificates/hackathon.pdf" },
+  { title: "Java Programming", issuer: "Iamneo", file: "/certificates/java-iamneo.pdf" },
+  { title: "Object Oriented Programming", issuer: "Iamneo", file: "/certificates/oop-iamneo.pdf" },
+  { title: "Data Structures and Algorithm", issuer: "Iamneo", file: "/certificates/dsa-iamneo.pdf" },
 ];
 
 const CertificatesSection = () => {

@@ -36,7 +36,7 @@ const HeroSection = () => {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="text-muted-foreground text-base md:text-lg max-w-2xl mx-auto mb-10 leading-relaxed"
         >
-          Aspiring Software Engineer with strong foundations in software development, problem solving, and system design.
+          Aspiring Computer Science and Engineering student
         </motion.p>
 
         <motion.div

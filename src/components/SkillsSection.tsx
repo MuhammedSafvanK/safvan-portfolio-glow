@@ -14,10 +14,10 @@ const technicalSkills = [
 ];
 
 const softSkills = [
+  { name: "Adaptability", icon: Lightbulb },
+  { name: "Analytical Thinking", icon: Brain },
   { name: "Problem-Solving", icon: Lightbulb },
   { name: "Team Collaboration", icon: Users },
-  { name: "Time Management", icon: Clock },
-  { name: "Analytical Thinking", icon: Brain },
 ];
 
 const SkillCard = ({ name, icon: Icon, index }: { name: string; icon: any; index: number }) => (
